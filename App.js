@@ -6,7 +6,6 @@ import Table1 from './components/Table1';
 import {StatusBar} from 'react-native'
 
 
-
 import {
   AppRegistry,
   Text,
